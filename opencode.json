@@ -3,7 +3,7 @@
   "mcp": {
     "context7": {
       "type": "local",
-      "command": ["npx", "-y", "@upstash/context7-mcp", "--api-key", "YOUR_CONTEXT7_API_KEY_HERE"],
+      "command": ["npx", "-y", "@upstash/context7-mcp", "--api-key", "ctx7sk-60ee739e-3731-4856-81d7-d2dc3aa"],
       "enabled": true
     }
   }
